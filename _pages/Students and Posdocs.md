@@ -1,5 +1,3 @@
----
-layout: archive
 Graduate & Undergraduate Students
 ======
 1. William (Jake) McClure 
