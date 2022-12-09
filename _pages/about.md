@@ -39,13 +39,18 @@ Core Faculty
 
 
 
-How to edit your site's GitHub repository
+Mission Statement
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+The center benefits Illinois Tech’s stochastic dynamics community in the following ways:
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+1. Offering minicourses on new or emerging topics in stochastic dynamics & data science, by visiting scholars, as a supplement to our exiting academic programs
+1. Serving as one interdisciplinary hub to facilitate research and collaboration, especially among junior faculty and postdocs
+1. Hosting visitors (especially pass by visitors) for research and seminars
+1. Hosting graduate student seminars
+1. Sponsoring undergraduate research (minority/women students, pre-REU, REU)
+1. Organizing activities such as joint workshops, including DEI workshops with Argonne National Laboratory and the NSF Institute for Mathematical and Statistical Innovation
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+The center plays a key role to partner effectively with corporate, university, national laboratory, and governmental stakeholders by driving collaborative, computational and data-driving research involving faculty and students from several disciplines, and by promoting diversity, equity, and inclusion.
+
+Many funding opportunities call for expertise from various disciplines and the center, with people who share the same mission and vision, can put people in a team to respond to these opportunities. The center will appoint some research scientists at Argonne National Laboratory as research faculty, to facilitate collaborative research and educational activities.
+
