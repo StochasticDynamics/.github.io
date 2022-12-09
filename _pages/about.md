@@ -54,3 +54,12 @@ The center plays a key role to partner effectively with corporate, university, n
 
 Many funding opportunities call for expertise from various disciplines and the center, with people who share the same mission and vision, can put people in a team to respond to these opportunities. The center will appoint some research scientists at Argonne National Laboratory as research faculty, to facilitate collaborative research and educational activities.
 
+Meetings
+======
+1. [SIAM Conference on Applications of Dynamical Systems](https://archive.siam.org/meetings/ds17/), May 2021, Portland, Oregon
+
+Computing Resources
+======
+PCs and Sun Workstations are available in this Center and in other university computer laboratories 
+
+Beowulf Linux Cluster "Menger" is a computer cluster consisting of one master node and eight slave nodes. Each node is equipped with dual 1.7 GHz Pentium 4 Xeon processors and 2GB RDRAM. All nodes are connected to each other via fast ehternet switch.
