@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "students_and_postdocs"
 permalink: /students_and_postdocs/
 author_profile: true

@@ -36,16 +36,16 @@ Steering Committee
 Core Faculty
 ------
 1. [Mustafa Bilgic](https://www.iit.edu/directory/people/mustafa-bilgic), Associate Professor of Computer Science
-2. [Yuhan Ding](https://www.iit.edu/directory/people/yuhan-ding), Associate Teaching Professor of Applied Mathematics
-3. [Yue Duan](https://www.iit.edu/directory/people/yue-duan), Gladwin Development Chair Assistant Professor of Computer Science
-4. [Georgia Papavasiliou](https://www.iit.edu/directory/people/georgia-papavasiliou), Professor of Biomedical Engineering
-5. [Hemanshu Kaul](https://www.iit.edu/directory/people/hemanshu-kaul), Associate Professor of Applied Mathematics
-6. [Xiaofan Li](https://www.iit.edu/directory/people/xiaofan-li), Professor of Applied Mathematics
-7. [Ali Cinar](https://www.iit.edu/directory/people/ali-cinar), Professor of Chemical Engineering
-8. [Scott T. M. Dawson](https://www.iit.edu/directory/people/scott-dawson), Assistant Professor of Mechanical and Aerospace Engineering
-9. [Mudassir M. Rashid](https://www.iit.edu/directory/people/mudassir-rashid), Research Assistant Professor
-10. [Binghui Wang](https://www.iit.edu/directory/people/binghui-wang), Assistant Professor of Computer Science
-11. [Ming Zhong](https://www.iit.edu/directory/people/ming-zhong), Assistant Professor of Applied Mathematics 
+1. [Yuhan Ding](https://www.iit.edu/directory/people/yuhan-ding), Associate Teaching Professor of Applied Mathematics
+1. [Yue Duan](https://www.iit.edu/directory/people/yue-duan), Gladwin Development Chair Assistant Professor of Computer Science
+1. [Georgia Papavasiliou](https://www.iit.edu/directory/people/georgia-papavasiliou), Professor of Biomedical Engineering
+1. [Hemanshu Kaul](https://www.iit.edu/directory/people/hemanshu-kaul), Associate Professor of Applied Mathematics
+1. [Xiaofan Li](https://www.iit.edu/directory/people/xiaofan-li), Professor of Applied Mathematics
+1. [Ali Cinar](https://www.iit.edu/directory/people/ali-cinar), Professor of Chemical Engineering
+1. [Scott T. M. Dawson](https://www.iit.edu/directory/people/scott-dawson), Assistant Professor of Mechanical and Aerospace Engineering
+1. [Mudassir M. Rashid](https://www.iit.edu/directory/people/mudassir-rashid), Research Assistant Professor
+1. [Binghui Wang](https://www.iit.edu/directory/people/binghui-wang), Assistant Professor of Computer Science
+1. [Ming Zhong](https://www.iit.edu/directory/people/ming-zhong), Assistant Professor of Applied Mathematics 
 
 
 
@@ -66,13 +66,15 @@ Many funding opportunities call for expertise from various disciplines and the c
 
 Meetings
 ======
+1. [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences/cm/conference/ds23), May 2023, Portland, Oregon
 1. [SIAM Conference on Applications of Dynamical Systems](https://archive.siam.org/meetings/ds17/), May 2021, Portland, Oregon
-2. [NSF-CBMS conference on Nonlocal Dynamics: Theory, Computation and Applications](http://math.iit.edu/nonlocaldynamics.html), (Supported by NSF),Chicago , June 4--9, 2017
-3. [SIAM Conference on Applications of Dynamical Systems](https://archive.siam.org/meetings/ds17/), May 2019, Snowbird, Utah
-4. [The 5th International Conference on Random Dynamical Systems](http://mathcenter.hust.edu.cn/), --- Celebrating Ludwig Arnold's 80th birthday,, June 2017, Wuhan, China
-5. [AMS Fall Central Section meeting](https://www.ams.org/meetings/sectional/2219_program_ss30.html#title), Chicago, October 3-4, 2015. Special Session:"Nonlocal Diffusions and Non-Gaussian Stochastic Dynamics"
-6. NSF-CBMS Regional Conference on [Recent Advances in the Numerical Approximation of Stochastic Partial Differential Equations](http://math.iit.edu/~spde2010/index.html), August 9-13, 2010, Chicago, USA
-7. AMS Fall West Section meeting, April 9--10, 2016, Univ of Utah, USA
+1. [SIAM Conference on Applications of Dynamical Systems](https://archive.siam.org/meetings/ds17/), May 2019, Snowbird, Utah
+1. [The 5th International Conference on Random Dynamical Systems](http://mathcenter.hust.edu.cn/), Celebrating Ludwig Arnold's 80th birthday, June 2017, Wuhan, China
+1. [NSF-CBMS conference on Nonlocal Dynamics: Theory, Computation and Applications](http://math.iit.edu/nonlocaldynamics.html), (Supported by NSF),Chicago , June 4--9, 2017
+1. AMS Fall West Section meeting, April 9--10, 2016, Univ of Utah, USA
+1. [AMS Fall Central Section meeting](https://www.ams.org/meetings/sectional/2219_program_ss30.html#title), Chicago, October 3-4, 2015. Special Session:"Nonlocal Diffusions and Non-Gaussian Stochastic Dynamics"
+1. NSF-CBMS Regional Conference on [Recent Advances in the Numerical Approximation of Stochastic Partial Differential Equations](http://math.iit.edu/~spde2010/index.html), August 9-13, 2010, Chicago, USA
+
 
 Computing Resources
 ======
