@@ -1,4 +1,11 @@
-Research activities include:
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+Research Activities:
 ======
 1. Data science inspired by dynamical systems 
 2. Data-driven predictive modeling and simulation
