@@ -1,5 +1,5 @@
 ---
-title: "students_and_postdocs"
+title: "Students and Postdocs"
 permalink: /students_and_postdocs/
 author_profile: true
 ---
