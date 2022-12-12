@@ -1,8 +1,12 @@
 ---
-title: "Research"
-permalink: /research/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 ---
+
+Seminars:
+======
+The Summer 2022 Seminars had finished
 
 Research Activities:
 ======

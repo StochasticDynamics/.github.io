@@ -1,15 +1,11 @@
 # main links links
-main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Seminars"
-    url: /seminars/    
-
-  - title: "Research"
-    url: /research/    
+main:  
+  - title: "Activities"
+    url: /activities/    
     
   - title: "Students and Postdocs"
     url: /students_and_postdocs/
 
+  - title: "Publications"
+    url: /publications/
    
