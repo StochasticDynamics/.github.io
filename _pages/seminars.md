@@ -1,6 +1,6 @@
 ---
 title: "Seminars"
-permalink: /activities/
+permalink: /seminars/
 author_profile: true
 ---
 

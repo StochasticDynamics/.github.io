@@ -41,10 +41,3 @@ Meetings
 1. AMS Fall West Section meeting, April 9--10, 2016, Univ of Utah, USA
 1. [AMS Fall Central Section meeting](https://www.ams.org/meetings/sectional/2219_program_ss30.html#title), Chicago, October 3-4, 2015. Special Session:"Nonlocal Diffusions and Non-Gaussian Stochastic Dynamics"
 1. NSF-CBMS Regional Conference on [Recent Advances in the Numerical Approximation of Stochastic Partial Differential Equations](http://math.iit.edu/~spde2010/index.html), August 9-13, 2010, Chicago, USA
-
-
-Computing Resources
-======
-PCs and Sun Workstations are available in this Center and in other university computer laboratories 
-
-Beowulf Linux Cluster "Menger" is a computer cluster consisting of one master node and eight slave nodes. Each node is equipped with dual 1.7 GHz Pentium 4 Xeon processors and 2GB RDRAM. All nodes are connected to each other via fast ehternet switch.
