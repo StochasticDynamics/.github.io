@@ -15,6 +15,7 @@ Summer 2023:
 3. [Jiequn Han](https://users.flatironinstitute.org/~jhan/), 7/12/2023, Designing High-Dimensional Closed-Loop Optimal Control Using Deep Neural Networks
 4. [Yifan Chen](https://yifanc96.github.io/), 7/19/2023, Gradient flow for sampling: energy functionals, invariance, and parametric approximations
 5. [Daniel Messenger](https://dm973.github.io/), 7/26/2023, Recovery guarantees and statistical efficiency in weak-form system identification
+   
 Summer 2022:
 ======
 1. [Fei Lu](https://math.jhu.edu/~feilu/), 5/27/2022, Learning kernels in mean-field equations of interacting particle systems
